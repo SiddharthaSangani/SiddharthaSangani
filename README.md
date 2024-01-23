@@ -3,4 +3,4 @@ Hello everyone,
 * This is Siddhartha Sangani
 * currently pursuing master's in ACS in North West Missouri State University
 
-[linktext](https://github.com/SiddharthaSangani)
+[Check my linkedin profile here](https://github.com/SiddharthaSangani)
